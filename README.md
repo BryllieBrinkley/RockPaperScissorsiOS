@@ -1,5 +1,5 @@
 ## Rock Paper Scissors Game
-RockPaperScissors is based off of the classic game where users can play against the computer by choosing between rock, paper, or scissors.
+RockPaperScissors is based on a classic game where users can play against the computer by choosing between rock, paper, or scissors.
 
 ## Overview
 - Choose between rock, paper, or scissors using buttons.
@@ -7,8 +7,11 @@ RockPaperScissors is based off of the classic game where users can play against 
 - Reset the game to play again.
   
 ## Features
+
 Gameplay: Select one of three options (rock, paper, or scissors) and play against the computer.
+
 Outcome Display: View game results (win, lose, or draw) dynamically updated on the screen.
+
 Reset Functionality: Play again with a single tap on the "Play Again" button.
 
 ## Getting Started
